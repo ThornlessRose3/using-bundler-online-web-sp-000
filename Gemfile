@@ -2,7 +2,7 @@ source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
 gem "hashie"
-gem "Octokit"
+gem "octokit"
 gem "AwesomePrint"
 
 group :development do
